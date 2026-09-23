@@ -68,6 +68,19 @@
   background-color: #000 !important;
 }
 
+.btn-adaptive-red {
+  border: 2px solid #da203e;
+  color: #da203e;
+  background-color: #fff;
+  transition: all 0.2s ease-in-out;
+}
+
+.dark .btn-adaptive-red {
+  border-color: #c00020 !important;
+  color: #c00020 !important;
+  background-color: #000 !important;
+}
+
 
 /* --- 3. 鸣谢卡片样式 (开源组件库) --- */
 .badge-card {
