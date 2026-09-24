@@ -11,6 +11,21 @@ CalculatorX 官方中文帮助中心，为 HarmonyOS 平台上的科学计算器
   </picture>
 </p>
 
+<p align="center">
+  <a href="https://appgallery.huawei.com/app/detail?id=com.startyi.calcx">
+    <img src="public/images/badges/AppGallery.svg" alt="AppGallery" height="52">
+  </a>
+  <a href="https://github.com/StartYR/CalculatorX/releases">
+    <img src="public/images/badges/github.svg" alt="GitHub Releases" height="52">
+  </a>
+  <a href="https://atomgit.com/StartYi/CalculatorX">
+    <img src="public/images/badges/atomgit.svg" alt="AtomGit" height="52">
+  </a>
+  <a href="https://gitee.com/StartYi/CalculatorX">
+    <img src="public/images/badges/gitee.svg" alt="Gitee" height="52">
+  </a>
+</p>
+
 ## 项目状态
 
 网站框架、静态构建、Cloudflare Pages 部署和官网 `/docs` 反向代理链路已经建立。用户手册主体内容已经覆盖当前实现的基础计算、科学计算、方程求解、矩阵、函数图像、汇率换算、历史记录和设置；维护者仍需按页面引用逐步补齐明暗主题截图。
